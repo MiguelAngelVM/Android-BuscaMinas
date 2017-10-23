@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/build/intermediates/res/merged/debug/layout/activity_inicio.xml",
+        "source": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/src/main/res/layout/activity_inicio.xml"
+    },
+    {
+        "merged": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/build/intermediates/res/merged/debug/layout/vista.xml",
+        "source": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/src/main/res/layout/vista.xml"
+    },
+    {
+        "merged": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/build/intermediates/res/merged/debug/layout/fragment_cuatro.xml",
+        "source": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/src/main/res/layout/fragment_cuatro.xml"
+    },
+    {
+        "merged": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/build/intermediates/res/merged/debug/layout/fragment_inicio.xml",
+        "source": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/src/main/res/layout/fragment_inicio.xml"
+    },
+    {
+        "merged": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/build/intermediates/res/merged/debug/layout/activity_cinco.xml",
+        "source": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/src/main/res/layout/activity_cinco.xml"
+    },
+    {
+        "merged": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/build/intermediates/res/merged/debug/layout/activity_seis.xml",
+        "source": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/src/main/res/layout/activity_seis.xml"
+    },
+    {
+        "merged": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/build/intermediates/res/merged/debug/layout/activity_cuatro.xml",
+        "source": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/src/main/res/layout/activity_cuatro.xml"
+    }
+]

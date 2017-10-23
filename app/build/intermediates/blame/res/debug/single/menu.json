@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/build/intermediates/res/merged/debug/menu/seis.xml",
+        "source": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/src/main/res/menu/seis.xml"
+    },
+    {
+        "merged": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/build/intermediates/res/merged/debug/menu/cuatro.xml",
+        "source": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/src/main/res/menu/cuatro.xml"
+    },
+    {
+        "merged": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/build/intermediates/res/merged/debug/menu/cinco.xml",
+        "source": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/src/main/res/menu/cinco.xml"
+    },
+    {
+        "merged": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/build/intermediates/res/merged/debug/menu/inicio.xml",
+        "source": "/home/asdf/AndroidStudioProjects/BuscaMinas/app/src/main/res/menu/inicio.xml"
+    }
+]
